@@ -114,8 +114,4 @@ The analysis follows a structured EDA approach:
 
 
 
-##  Next Steps
-- SQL-based churn analysis
-- Power BI dashboard for executive reporting
-- Predictive churn modeling (Machine Learning)
 
